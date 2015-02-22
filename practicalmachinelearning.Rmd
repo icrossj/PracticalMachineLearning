@@ -2,8 +2,9 @@
 title: "Random Forest on Weight Lifting Exercises Dataset"
 author: "Marvin Lav"
 date: "Saturday, February 21, 2015"
-output: html_document
-keep_md: true
+output: 
+  html_document:
+    keep_md: true
 ---
 
 
